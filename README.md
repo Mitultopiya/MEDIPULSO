@@ -130,7 +130,7 @@ VITE_API_BASE_URL=http://localhost:7500
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Sacarima/MEDIPULSO.git
+git clone https://github.com/Mitultopiya/MEDIPULSO.git
 ```
 
 2. **Install dependencies:**
@@ -158,22 +158,3 @@ npm run dev
 ```
 
 ---
-
-## 🌐 Live Site
-
-[https://medipulso.com/](https://medipulso.com/)
-
----
-
-## Contributors
-
-* Joao Aleixo ([@Sacarima](https://github.com/Sacarima))
-
----
-
-## 🌓 License
-
-This project is licensed under the MIT License.
-
----
-
